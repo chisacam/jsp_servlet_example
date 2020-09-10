@@ -1,4 +1,4 @@
-# jsp_servlet_example
+# jsp_servlet_middle_test
 
 ## 어찌 이런 끔찍한 코드를?
 
